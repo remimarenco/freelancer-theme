@@ -12,6 +12,21 @@
                         </p>
                     </div>
                     <div class="footer-col col-md-4">
+                        <h3>{{ site.footer.hours }}</h3>
+                        {% for hour in site.hours %}
+                            <div class="row">
+                                {% for line in hour.line %}
+                                    <div class="col-md-6 text-left">
+                                        {{ line.day }}
+                                    </div>
+                                    <div class="col-md-6">
+                                        {{ line.hour }}
+                                    </div>
+                                {% endfor %}
+                            </div>
+                        {% endfor %}
+                    </div>
+                    <div class="footer-col col-md-4">
                         <h3>{{ site.footer.social }}</h3>
                         <ul class="list-inline">
                             {% for network in site.social %}
@@ -20,10 +35,6 @@
                             </li>
 		                    {% endfor %}
                         </ul>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.credits }}</h3>
-                        <p>{{ site.credits }}</p>
                     </div>
                 </div>
             </div>

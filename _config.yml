@@ -67,6 +67,7 @@ hours:
         hour: "9:00am - 8:00pm"
   - line:
       - day: "Saturday:"
+        hour: "9:00am - 8:00pm"
   - line:
       - day: "Sunday:"
         hour: "1:00pm - 7:00pm"

@@ -57,11 +57,19 @@ hours:
       - day: "Tuesday:"
         hour: "Appointment only"
   - line:
-      - day: "Wednesday to Saturday:"
+      - day: "Wednesday:"
         hour: "9:00am - 8:00pm"
   - line:
-      - day: "Sunday"
-        hour: "01:00pm - 07:00pm"
+      - day: "Thursday:"
+        hour: "9:00am - 8:00pm"
+  - line:
+      - day: "Friday:"
+        hour: "9:00am - 8:00pm"
+  - line:
+      - day: "Saturday:"
+  - line:
+      - day: "Sunday:"
+        hour: "1:00pm - 7:00pm"
 
 # Build settings
 markdown: kramdown

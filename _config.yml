@@ -1,10 +1,4 @@
 # Site settings
-title: Young Hair Studio
-email: remi.marenco@gmail.com
-url: https://github.com/remimarenco/
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "10 Years Of Hair Styling Experience - Happiness Specialist - Beautiful Hair Maker"
-meta_author: Young FirstName
 
 # Google webmaster tools
 google_verify:
@@ -21,49 +15,6 @@ contact: static
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: myshortname
-
-# Footer settings
-footer:
-  copyright: Rémi Marenco
-  location: Location
-  social: Around the Web
-  hours: Hours
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/younghairstudio
-  - title: facebook
-    url: https://www.facebook.com/profile.php?id=100009964398656
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 20937 Ashburn Rd Ste 100
-  - line: Ashburn, VA 20147
-
-# Hours content
-hours:
-  - line:
-      - day: "Monday:"
-        hour: "9:00am - 8:00pm"
-  - line:
-      - day: "Tuesday:"
-        hour: "Appointment only"
-  - line:
-      - day: "Wednesday:"
-        hour: "9:00am - 8:00pm"
-  - line:
-      - day: "Thursday:"
-        hour: "9:00am - 8:00pm"
-  - line:
-      - day: "Friday:"
-        hour: "9:00am - 8:00pm"
-  - line:
-      - day: "Saturday:"
-        hour: "9:00am - 8:00pm"
-  - line:
-      - day: "Sunday:"
-        hour: "1:00pm - 7:00pm"
 
 # Build settings
 markdown: kramdown

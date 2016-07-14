@@ -1,0 +1,23 @@
+# Hours content
+shop:
+  - line:
+      - day: "Monday:"
+        hour: "9:00am - 8:00pm"
+  - line:
+      - day: "Tuesday:"
+        hour: "Appointment only"
+  - line:
+      - day: "Wednesday:"
+        hour: "9:00am - 8:00pm"
+  - line:
+      - day: "Thursday:"
+        hour: "9:00am - 8:00pm"
+  - line:
+      - day: "Friday:"
+        hour: "9:00am - 8:00pm"
+  - line:
+      - day: "Saturday:"
+        hour: "9:00am - 8:00pm"
+  - line:
+      - day: "Sunday:"
+        hour: "1:00pm - 7:00pm"

@@ -1,0 +1,47 @@
+---
+title1: CUT AND STYLE (includes steam towel, shampoo and conditioning)	
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cutandstyle.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+
+services:
+    #1
+  - service: Shampoo, Cut, Blow-dry men
+    price: 25
+    #2
+  - service: Shampoo, Cut, Blow-dry women
+    price: 35
+    #3
+  - service: Shampoo, Cut, Blow-dry kids 8 and under
+    price: 20
+    #4
+  - service: Shampoo, Blow-dry
+    price: 25
+    #5
+  - service: Shampoo, Blow-dry, Straightening
+    price: 35
+    #6
+  - service: Shampoo, Basic Set short hair
+    price: 20
+    #7
+  - service: Shampoo, Basic Set longer then 5 inches
+    price: 30
+    #8
+  - service: Iron finish ends only
+    price: Add 10
+    #9
+  - service: Iron Set scalp to end
+    price: Add 15
+    #10
+  - service: Long hair 2 inches or more below shoulders
+    price: Add 10
+    #11
+  - service: Mid-back or longer hair
+    price: Add 20
+
+---

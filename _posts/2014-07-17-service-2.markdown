@@ -1,0 +1,52 @@
+---
+title1: COLOR/HIGHLIGHT (includes shampoo and blow-dry)
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cake.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+
+services:
+    #1
+  - service: Partial Highlight Men (maximum of 12 foils)
+    price: 40
+    #2
+  - service: Partial Highlight Women (maximum of 12 foils)
+    price: 70
+    #3
+  - service: Full Highlights Men
+    price: 60
+    #4
+  - service: Full Highlights Women
+    price: 90
+    #5
+  - service: Color with Partial Highlight
+    price: 110
+    #6
+  - service: Color with Full Highlight
+    price: 135
+    #7
+  - service: Color & cut for Men
+    price: 60
+    #8
+  - service: All over lift and tone
+    price: 80
+    #9
+  - service: Touch-up
+    price: 55
+    #10
+  - service: Single Color
+    price: 55
+    #11
+  - service: Additional Color
+    price: Add 25
+    #12
+  - service: Long hair 2 inches or more below shoulders
+    price: Add 10
+    #13
+  - service: Mid-back or longer hair
+    price: Add 20
+---

@@ -1,0 +1,38 @@
+---
+title1: STUDIO PACKAGES
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: game.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+
+services:
+    #1
+  - service: "All in one  #1- Cut, Treatment, Blow-dry, Eyebrow Wax"
+    price: 48
+    #2
+  - service: "All in one  #2 -Partial Highlight, Cut, Treatment, Blow-dry"
+    price: 90
+    #3
+  - service: "All in one  #3 -Full Highlight, Cut, Treatment, Blow-dry"
+    price: 115
+    #4
+  - service: "All in one  #4 –Color, Partial Highlight, Cut, Treatment, Blow-dry"
+    price: 140
+    #5
+  - service: "All in one  #5 –Color, Full Highlight, Cut, Treatment, Blow-dry"
+    price: 165
+    #6
+  - service: "Deep conditioning treatment"
+    price: 20
+    #7
+  - service: "Long hair 2 inches or more below shoulders"
+    price: Add 10
+    #8
+  - service: Mid-back or longer hair
+    price: Add 20
+
+---

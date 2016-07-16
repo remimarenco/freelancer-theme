@@ -1,0 +1,20 @@
+---
+title1: STRAIGHTENING & PERM (hair-cut included with all services)
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: circus.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+
+services:
+    #1
+  - service: Relaxer/Straightener
+    price: 110
+    #2
+  - service: Permanent Wave/Treatment
+    price: 110
+
+---

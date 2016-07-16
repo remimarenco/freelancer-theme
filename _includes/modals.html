@@ -12,10 +12,21 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
+                            <h2>{{ post.title1 }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
+                            <div class="container">
+                              {% for variable in post.services %}
+                              <div class="row">
+                                <div class="col-lg-4 col-lg-offset-1 text-left">
+                                  <p>{{ variable.service }}</p>
+                                </div>
+                                <div class="col-lg-2">
+                                  <p>{{ variable.price }}</p>
+                                </div>
+                              </div>
+                              {% endfor %}
+                            </div>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">{{ post.client }}</a>

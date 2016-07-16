@@ -1,0 +1,25 @@
+---
+title1: WAXING
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: safe.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+
+services:
+    #1
+  - service: Eyebrow
+    price: 10
+    #2
+  - service: Lip
+    price: 10
+    #3
+  - service: Facial Package (eye, lip and chin)
+    price: 25
+    #4
+  - service: "Others (Each individual: Beard, Bangs, Neckline Trim, etc)"
+    price: 10
+---

@@ -9,3 +9,9 @@
 .navbar-fixed-top.navbar-shrink .navbar-brand {
     font-size: 1.5em;
 }
+
+.footer_link {
+    font-size: 20px;
+    outline: 0;
+    color: white;
+}

@@ -5,11 +5,11 @@
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>{{ site.data.footer.location }}</h3>
-                        <p>
+                        <a href="{{ site.data.location.coordinates }}" target="_blank" class="footer_link">
                             {% for adress in site.data.location.address %}
                                 {{ adress.line }} <br>
 		                    {% endfor %}
-                        </p>
+                        </a>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.data.footer.hours }}</h3>
